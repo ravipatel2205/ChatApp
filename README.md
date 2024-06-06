@@ -7,8 +7,8 @@ This is sample chat app using socket programming with local server.
 ## Step 1: Clone Project
 
 ```bash
-$ git clone https://github.com/Edugem-Technologies/socket-chat-rn.git # or clone your own fork
-$ cd socket-chat-rn
+$ git clone git@github.com:ravipatel2205/ChatAppReactNative.git # or clone your own fork
+$ cd ChatAppReactNative
 $ npm install
 ```
 
