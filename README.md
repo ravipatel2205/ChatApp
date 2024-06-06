@@ -2,7 +2,7 @@
 
 This is sample chat app using socket programming with local server.
 
-> **Note**: Make sure you have completed the [React Native - Environment Setup](https://github.com/Edugem-Technologies/socket-chat-rn.git) instructions till "Creating a new application" step and configure [Chat Server](https://github.com/Edugem-Technologies/socket-chat-backend.git) before proceeding.
+> **Note**: Make sure you have completed the [React Native - Environment Setup](https://github.com/ravipatel2205/ChatAppReactNative) instructions till "Creating a new application" step and configure [Chat Server](https://github.com/ravipatel2205/ChatAppBackend) before proceeding.
 
 ## Step 1: Clone Project
 
